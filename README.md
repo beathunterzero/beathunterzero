@@ -82,7 +82,7 @@ Local SIEM environment using Docker Compose
 
 ### Python Security Tools
 
-Custom tooling for password generation, hashing and encryption
+Local command-line tool for generating secure passwords and checking existing passwords from the terminal
 
 ➡️ [https://github.com/beathunterzero/carnada](https://github.com/beathunterzero/carnada)
 
