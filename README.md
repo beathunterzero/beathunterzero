@@ -1,6 +1,8 @@
 # 👨‍💻 Rhodyn Ildefonso
 
-**Cyber Threat Hunter | Detection Engineering | Incident Response (Cloud & SOC)**
+**Cyber Threat Hunter | Detection Engineer | Cloud Incident Responder**
+
+Hunting adversaries across multicloud environments • Building high-fidelity detections • Turning logs into actionable intelligence.
 
 ---
 
