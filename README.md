@@ -1,13 +1,13 @@
-# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/about_me.gif?raw=true" width="30px"></picture> About Me
+# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/about_me.gif?raw=true" width="50px"></picture> About Me:
 Cybersecurity professional focused on Cyber Threat Hunting, Detection Engineering, DFIR, and Cloud Incident Response.<br>
 I build security labs, document investigation workflows, develop detection logic, and create Python-based security tools to support practical threat analysis.<br>
 My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain, and hypothesis-driven hunting: understand adversary behavior, validate it with telemetry, document the evidence, and convert it into actionable detections.
 
-## 🌐 Socials:
+## <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/CP_PS.gif?raw=true" width="30px"></picture> Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/beathunterzero/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhodyn-ildefonso-4ba73b1b8/)
 
-## 🧰 Tech Stack & Tools
+## <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/Right_Side.gif?raw=true" width="30px"></picture> Tech Stack & Tools
 
 <details>
 <summary><strong>🎯 Threat Hunting & Detection Engineering</strong></summary>
@@ -145,7 +145,7 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 
 </details>
 
-## 🧪 Featured Projects
+## <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/GitHub.gif?raw=true" width="30px"></picture> Featured Projects
 
 <a href="https://github.com/beathunterzero/cyber-threat-hunting">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=beathunterzero&repo=cyber-threat-hunting&theme=tokyonight&hide_border=false" />
