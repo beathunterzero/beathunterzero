@@ -176,21 +176,21 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 ## 🧪 Featured Projects
 
 <a href="https://github.com/beathunterzero/cyber-threat-hunting">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beathunterzero&repo=cyber-threat-hunting&theme=tokyonight&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beathunterzero&repo=cyber-threat-hunting&theme=chartreuse-dark" />
 </a>
 
 <a href="https://github.com/beathunterzero/engineering-knowledge-base">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beathunterzero&repo=engineering-knowledge-base&theme=tokyonight&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beathunterzero&repo=engineering-knowledge-base&theme=chartreuse-dark" />
 </a>
 
 <a href="https://github.com/beathunterzero/elastic-security-lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beathunterzero&repo=elastic-security-lab&theme=tokyonight&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beathunterzero&repo=elastic-security-lab&theme=chartreuse-dark" />
 </a>
 
 <a href="https://github.com/beathunterzero/carnada">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beathunterzero&repo=carnada&theme=tokyonight&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beathunterzero&repo=carnada&theme=chartreuse-dark" />
 </a>
 
 # 📊 GitHub Stats:
-![](https://github-vercel-deployment-seven.vercel.app/api?username=beathunterzero&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=beathunterzero&theme=tokyonight&hide_border=false)<br/>
+![](https://github-vercel-deployment-seven.vercel.app/api?username=beathunterzero&show_icons=true&theme=chartreuse-dark&rank_icon=github&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=beathunterzero&theme=chartreuse-dark&hide_border=false)<br/>
