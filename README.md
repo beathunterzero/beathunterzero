@@ -6,7 +6,7 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 ## 🧰 Tech Stack & Tools
 
 <details>
-<summary><strong>🎯 Threat Hunting & Detection Engineering</strong></summary>
+<summary><strong>Threat Hunting & Detection Engineering</strong></summary>
 
 <br>
 
@@ -23,7 +23,7 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 </details>
 
 <details>
-<summary><strong>🧪 DFIR & Incident Response</strong></summary>
+<summary><strong>DFIR & Incident Response</strong></summary>
 
 <br>
 
@@ -39,7 +39,7 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 </details>
 
 <details>
-<summary><strong>📊 SIEM, Logging & Detection Platforms</strong></summary>
+<summary><strong>SIEM, Logging & Detection Platforms</strong></summary>
 
 <br>
 
@@ -58,7 +58,7 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 </details>
 
 <details>
-<summary><strong>☁️ Cloud Security</strong></summary>
+<summary><strong>Cloud Security</strong></summary>
 
 <br>
 
@@ -76,7 +76,7 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 </details>
 
 <details>
-<summary><strong>🕵️ OSINT & Threat Intelligence</strong></summary>
+<summary><strong>OSINT & Threat Intelligence</strong></summary>
 
 <br>
 
@@ -91,7 +91,7 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 </details>
 
 <details>
-<summary><strong>⚔️ Offensive Security & Validation</strong></summary>
+<summary><strong>Offensive Security & Validation</strong></summary>
 
 <br>
 
@@ -108,7 +108,7 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 </details>
 
 <details>
-<summary><strong>🛠️ Automation & Scripting</strong></summary>
+<summary><strong>Automation & Scripting</strong></summary>
 
 <br>
 
@@ -119,7 +119,7 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 </details>
 
 <details>
-<summary><strong>🧱 Infrastructure & Labs</strong></summary>
+<summary><strong>Infrastructure & Labs</strong></summary>
 
 <br>
 
@@ -136,7 +136,7 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 </details>
 
 <details>
-<summary><strong>📚 Frameworks & Security Models</strong></summary>
+<summary><strong>Frameworks & Security Models</strong></summary>
 
 <br>
 
@@ -153,23 +153,23 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 ## 🌐 Socials:
 
 <p align="left">
-    <a href="mailto:rhodyn.ildefonso.1311@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-Contact%20Me-000?logo=microsoftoutlook&logoColor=white" />
+  <a href="mailto:rhodyn.ildefonso.1311@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-Contact%20Me-000000?style=flat-square&logo=microsoftoutlook&logoColor=000000&labelColor=7FFF00" />
   </a>
   <a href="https://www.linkedin.com/in/rhodyn-ildefonso-4ba73b1b8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rhodyn%20Ildefonso-000?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Rhodyn%20Ildefonso-000000?style=flat-square&logo=linkedin&logoColor=000000&labelColor=7FFF00" />
   </a>
   <a href="https://github.com/beathunterzero" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-beathunterzero-000?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-beathunterzero-000000?style=flat-square&logo=github&logoColor=000000&labelColor=7FFF00" />
   </a>
   <a href="mailto:rhodyn.ildefonso.1311@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-000?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-000000?style=flat-square&logo=gmail&logoColor=000000&labelColor=7FFF00" />
   </a>
   <a href="https://www.youtube.com/@beathunterzero" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-beathunterzero-000?logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-beathunterzero-000000?style=flat-square&logo=youtube&logoColor=000000&labelColor=7FFF00" />
   </a>
   <a href="https://www.instagram.com/beathunterzero/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-beathunterzero-000?logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-beathunterzero-000000?style=flat-square&logo=instagram&logoColor=000000&labelColor=7FFF00" />
   </a>
 </p>
 
