@@ -3,10 +3,6 @@ Cybersecurity professional focused on Cyber Threat Hunting, Detection Engineerin
 I build security labs, document investigation workflows, develop detection logic, and create Python-based security tools to support practical threat analysis.<br>
 My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain, and hypothesis-driven hunting: understand adversary behavior, validate it with telemetry, document the evidence, and convert it into actionable detections.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/beathunterzero/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/rhodyn-ildefonso-4ba73b1b8/)
-
 ## 🧰 Tech Stack & Tools
 
 <details>
@@ -21,6 +17,8 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 ![Cyber Kill Chain](https://img.shields.io/badge/-Cyber%20Kill%20Chain-000)
 ![Atomic Red Team](https://img.shields.io/badge/-Atomic%20Red%20Team-000)
 ![Sysmon](https://img.shields.io/badge/-Sysmon-000?&logo=microsoft)
+![Velociraptor](https://img.shields.io/badge/-Velociraptor-000)
+![Wireshark](https://img.shields.io/badge/-Wireshark-000?&logo=wireshark)
 
 </details>
 
@@ -54,6 +52,8 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 ![SOF-ELK](https://img.shields.io/badge/-SOF--ELK-000?&logo=elastic)
 ![Zeek](https://img.shields.io/badge/-Zeek-000)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-000?&logo=wireshark)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira)
+![PagerDuty](https://img.shields.io/badge/-PagerDuty-000?&logo=pagerduty)
 
 </details>
 
@@ -100,6 +100,10 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000?&logo=burpsuite)
 ![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-000?&logo=owasp)
 ![Nessus](https://img.shields.io/badge/-Nessus-000)
+![Nmap](https://img.shields.io/badge/-Nmap-000?&logo=nmap)
+![Metasploit](https://img.shields.io/badge/-Metasploit-000?&logo=metasploit)
+![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-000)
+![Tcpdump](https://img.shields.io/badge/-Tcpdump-000)
 
 </details>
 
@@ -119,6 +123,7 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 
 <br>
 
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visualstudio)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-000?&logo=docker)
 ![WSL2](https://img.shields.io/badge/-WSL2-000?&logo=linux)
@@ -144,6 +149,29 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 ![Cyber Kill Chain](https://img.shields.io/badge/-Cyber%20Kill%20Chain-000)
 
 </details>
+
+## 🌐 Socials:
+
+<p align="left">
+    <a href="mailto:rhodyn.ildefonso.1311@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-Contact%20Me-000?logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rhodyn-ildefonso-4ba73b1b8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rhodyn%20Ildefonso-000?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/beathunterzero" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-beathunterzero-000?logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:rhodyn.ildefonso.1311@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-000?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@beathunterzero" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-beathunterzero-000?logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/beathunterzero/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-beathunterzero-000?logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ## 🧪 Featured Projects
 
