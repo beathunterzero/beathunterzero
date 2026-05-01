@@ -3,7 +3,7 @@ Cybersecurity professional focused on Cyber Threat Hunting, Detection Engineerin
 I build security labs, document investigation workflows, develop detection logic, and create Python-based security tools to support practical threat analysis.<br>
 My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain, and hypothesis-driven hunting: understand adversary behavior, validate it with telemetry, document the evidence, and convert it into actionable detections.
 
-## 🧰 Tech Stack & Tools
+# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Tech Stack & Tools
 
 <details>
 <summary><strong>Threat Hunting & Detection Engineering</strong></summary>
@@ -150,7 +150,19 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 
 </details>
 
-## 🌐 Socials:
+# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Featured Projects
+
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=beathunterzero&repo=cyber-threat-hunting&theme=chartreuse-dark)](https://github.com/beathunterzero/cyber-threat-hunting)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=beathunterzero&repo=engineering-knowledge-base&theme=chartreuse-dark)](https://github.com/beathunterzero/engineering-knowledge-base)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=beathunterzero&repo=elastic-security-lab&theme=chartreuse-dark)](https://github.com/beathunterzero/elastic-security-lab)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=beathunterzero&repo=carnada&theme=chartreuse-dark)](https://github.com/beathunterzero/carnada)
+
+# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> GitHub Stats:
+
+![](https://github-vercel-deployment-seven.vercel.app/api?username=beathunterzero&show_icons=true&theme=chartreuse-dark&rank_icon=github&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=beathunterzero&theme=chartreuse-dark&hide_border=false)
+
+# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Socials:
 
 <p align="left">
   <a href="mailto:rhodyn.ildefonso.1311@outlook.com">
@@ -172,14 +184,3 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
     <img src="https://img.shields.io/badge/Instagram-beathunterzero-000000?style=flat-square&logo=instagram&logoColor=000000&labelColor=7FFF00" />
   </a>
 </p>
-
-## 🧪 Featured Projects
-
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=beathunterzero&repo=cyber-threat-hunting&theme=chartreuse-dark)](https://github.com/beathunterzero/cyber-threat-hunting)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=beathunterzero&repo=engineering-knowledge-base&theme=chartreuse-dark)](https://github.com/beathunterzero/engineering-knowledge-base)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=beathunterzero&repo=elastic-security-lab&theme=chartreuse-dark)](https://github.com/beathunterzero/elastic-security-lab)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=beathunterzero&repo=carnada&theme=chartreuse-dark)](https://github.com/beathunterzero/carnada)
-
-# 📊 GitHub Stats:
-![](https://github-vercel-deployment-seven.vercel.app/api?username=beathunterzero&show_icons=true&theme=chartreuse-dark&rank_icon=github&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=beathunterzero&theme=chartreuse-dark&hide_border=false)
