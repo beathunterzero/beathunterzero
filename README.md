@@ -159,21 +159,21 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rhodyn-ildefonso-4ba73b1b8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-000000?style=flat-square&logo=linkedin&logoColor=000000&labelColor=7FFF00" />
+    <img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-000000?style=flat-square&labelColor=7FFF00" />
   </a>
   <a href="mailto:rhodyn.ildefonso.1311@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-Contact%20Me-000000?style=flat-square&logo=microsoftoutlook&logoColor=000000&labelColor=7FFF00" />
+    <img src="https://img.shields.io/badge/Outlook-Contact%20Me-000000?style=flat-square&labelColor=7FFF00" />
   </a>
   <a href="mailto:rhodyn.ildefonso.1311@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-000000?style=flat-square&logo=gmail&logoColor=000000&labelColor=7FFF00" />
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-000000?style=flat-square&labelColor=7FFF00" />
   </a>
   <a href="https://medium.com/@rhodyn.ildefonso.1311" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Contact%20Me-000000?style=flat-square&logo=medium&logoColor=000000&labelColor=7FFF00" />
+    <img src="https://img.shields.io/badge/Medium-Contact%20Me-000000?style=flat-square&labelColor=7FFF00" />
   </a>
   <a href="https://www.youtube.com/@beathunterzero" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Contact%20Me-000000?style=flat-square&logo=youtube&logoColor=000000&labelColor=7FFF00" />
+    <img src="https://img.shields.io/badge/YouTube-Contact%20Me-000000?style=flat-square&labelColor=7FFF00" />
   </a>
   <a href="https://www.instagram.com/beathunterzero/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Contact%20Me-000000?style=flat-square&logo=instagram&logoColor=000000&labelColor=7FFF00" />
+    <img src="https://img.shields.io/badge/Instagram-Contact%20Me-000000?style=flat-square&labelColor=7FFF00" />
   </a>
 </p>
