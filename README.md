@@ -150,14 +150,6 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 
 </details>
 
-# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Featured Projects
-
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=beathunterzero&repo=cyber-threat-hunting&theme=chartreuse-dark)](https://github.com/beathunterzero/cyber-threat-hunting)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=beathunterzero&repo=engineering-knowledge-base&theme=chartreuse-dark)](https://github.com/beathunterzero/engineering-knowledge-base)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=beathunterzero&repo=elastic-security-lab&theme=chartreuse-dark)](https://github.com/beathunterzero/elastic-security-lab)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=beathunterzero&repo=carnada&theme=chartreuse-dark)](https://github.com/beathunterzero/carnada)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=beathunterzero&repo=cyber-threat-hunting-lab-logs&theme=chartreuse-dark)](https://github.com/beathunterzero/cyber-threat-hunting-lab-logs)
-
 # <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> GitHub Stats:
 
 ![](https://github-vercel-deployment-seven.vercel.app/api?username=beathunterzero&show_icons=true&theme=chartreuse-dark&rank_icon=github&include_all_commits=true&count_private=true)
@@ -166,22 +158,22 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 # <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Socials:
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/rhodyn-ildefonso-4ba73b1b8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-000000?style=flat-square&logo=linkedin&logoColor=000000&labelColor=7FFF00" />
+  </a>
   <a href="mailto:rhodyn.ildefonso.1311@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-Contact%20Me-000000?style=flat-square&logo=microsoftoutlook&logoColor=000000&labelColor=7FFF00" />
-  </a>
-  <a href="https://www.linkedin.com/in/rhodyn-ildefonso-4ba73b1b8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rhodyn%20Ildefonso-000000?style=flat-square&logo=linkedin&logoColor=000000&labelColor=7FFF00" />
-  </a>
-  <a href="https://github.com/beathunterzero" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-beathunterzero-000000?style=flat-square&logo=github&logoColor=000000&labelColor=7FFF00" />
   </a>
   <a href="mailto:rhodyn.ildefonso.1311@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-000000?style=flat-square&logo=gmail&logoColor=000000&labelColor=7FFF00" />
   </a>
+  <a href="https://medium.com/@rhodyn.ildefonso.1311" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Contact%20Me-000000?style=flat-square&logo=medium&logoColor=000000&labelColor=7FFF00" />
+  </a>
   <a href="https://www.youtube.com/@beathunterzero" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-beathunterzero-000000?style=flat-square&logo=youtube&logoColor=000000&labelColor=7FFF00" />
+    <img src="https://img.shields.io/badge/YouTube-Contact%20Me-000000?style=flat-square&logo=youtube&logoColor=000000&labelColor=7FFF00" />
   </a>
   <a href="https://www.instagram.com/beathunterzero/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-beathunterzero-000000?style=flat-square&logo=instagram&logoColor=000000&labelColor=7FFF00" />
+    <img src="https://img.shields.io/badge/Instagram-Contact%20Me-000000?style=flat-square&logo=instagram&logoColor=000000&labelColor=7FFF00" />
   </a>
 </p>
