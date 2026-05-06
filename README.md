@@ -153,9 +153,9 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 # <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Featured Projects
 
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=beathunterzero&repo=cyber-threat-hunting&theme=chartreuse-dark)](https://github.com/beathunterzero/cyber-threat-hunting)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=beathunterzero&repo=cyber-threat-hunting-lab-logs&theme=chartreuse-dark)](https://github.com/beathunterzero/cyber-threat-hunting-lab-logs)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=beathunterzero&repo=engineering-knowledge-base&theme=chartreuse-dark)](https://github.com/beathunterzero/engineering-knowledge-base)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=beathunterzero&repo=elastic-security-lab&theme=chartreuse-dark)](https://github.com/beathunterzero/elastic-security-lab)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=beathunterzero&repo=cyber-threat-hunting-lab-logs&theme=chartreuse-dark)](https://github.com/beathunterzero/cyber-threat-hunting-lab-logs)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=beathunterzero&repo=carnada&theme=chartreuse-dark)](https://github.com/beathunterzero/carnada)
 
 # <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> GitHub Stats:
