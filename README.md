@@ -3,7 +3,16 @@ Cybersecurity professional focused on Cyber Threat Hunting, Detection Engineerin
 I build security labs, document investigation workflows, develop detection logic, and create Python-based security tools to support practical threat analysis.<br>
 My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain, and hypothesis-driven hunting: understand adversary behavior, validate it with telemetry, document the evidence, and convert it into actionable detections.
 
-# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Tech Stack & Tools
+# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Current Focus:
+
+- Hypothesis-driven Threat Hunting using MITRE ATT&CK and Cyber Kill Chain
+- Detection Engineering with Elastic Security and Microsoft Sentinel
+- Endpoint DFIR and investigation workflows with Velociraptor
+- Network analysis and packet inspection with Wireshark
+- Security automation and Python-based tooling
+- Technical documentation for reusable security knowledge
+
+# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Tech Stack & Tools:
 
 <details>
 <summary><strong>Threat Hunting & Detection Engineering</strong></summary>
@@ -150,30 +159,25 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 
 </details>
 
-# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> GitHub Stats:
-
-![](https://github-vercel-deployment-seven.vercel.app/api?username=beathunterzero&show_icons=true&theme=chartreuse-dark&rank_icon=github&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=beathunterzero&theme=chartreuse-dark&hide_border=false)
-
 # <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Socials:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rhodyn-ildefonso-4ba73b1b8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-000000?style=flat-square&labelColor=7FFF00" />
+    <img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-000000?style=flat-square&labelColor=334155" />
   </a>
   <a href="mailto:rhodyn.ildefonso.1311@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-Contact%20Me-000000?style=flat-square&labelColor=7FFF00" />
+    <img src="https://img.shields.io/badge/Outlook-Contact%20Me-000000?style=flat-square&labelColor=334155" />
   </a>
   <a href="mailto:rhodyn.ildefonso.1311@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-000000?style=flat-square&labelColor=7FFF00" />
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-000000?style=flat-square&labelColor=334155" />
   </a>
   <a href="https://medium.com/@rhodyn.ildefonso.1311" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Contact%20Me-000000?style=flat-square&labelColor=7FFF00" />
+    <img src="https://img.shields.io/badge/Medium-Contact%20Me-000000?style=flat-square&labelColor=334155" />
   </a>
   <a href="https://www.youtube.com/@beathunterzero" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Contact%20Me-000000?style=flat-square&labelColor=7FFF00" />
+    <img src="https://img.shields.io/badge/YouTube-Contact%20Me-000000?style=flat-square&labelColor=334155" />
   </a>
   <a href="https://www.instagram.com/beathunterzero/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Contact%20Me-000000?style=flat-square&labelColor=7FFF00" />
+    <img src="https://img.shields.io/badge/Instagram-Contact%20Me-000000?style=flat-square&labelColor=334155" />
   </a>
 </p>
