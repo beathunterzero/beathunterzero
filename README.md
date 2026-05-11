@@ -171,9 +171,6 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
   <a href="mailto:rhodyn.ildefonso.1311@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-000000?style=flat-square&labelColor=334155" />
   </a>
-  <a href="https://medium.com/@rhodyn.ildefonso.1311" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Contact%20Me-000000?style=flat-square&labelColor=334155" />
-  </a>
   <a href="https://www.youtube.com/@beathunterzero" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Contact%20Me-000000?style=flat-square&labelColor=334155" />
   </a>
