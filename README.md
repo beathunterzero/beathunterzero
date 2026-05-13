@@ -12,7 +12,7 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 - Security automation and Python-based tooling
 - Technical documentation for reusable security knowledge
 
-# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Tech Stack & Tools:
+# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Tech Stack & Tools
 
 <details>
 <summary><strong>Threat Hunting & Detection Engineering</strong></summary>
@@ -22,12 +22,9 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 ![Threat Hunting](https://img.shields.io/badge/-Threat%20Hunting-000)
 ![Detection Engineering](https://img.shields.io/badge/-Detection%20Engineering-000)
 ![Hypothesis Driven Hunting](https://img.shields.io/badge/-Hypothesis--Driven%20Hunting-000)
-![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-000)
-![Cyber Kill Chain](https://img.shields.io/badge/-Cyber%20Kill%20Chain-000)
 ![Atomic Red Team](https://img.shields.io/badge/-Atomic%20Red%20Team-000)
 ![Sysmon](https://img.shields.io/badge/-Sysmon-000?&logo=microsoft)
 ![Velociraptor](https://img.shields.io/badge/-Velociraptor-000)
-![Wireshark](https://img.shields.io/badge/-Wireshark-000?&logo=wireshark)
 
 </details>
 
@@ -38,8 +35,6 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 
 ![DFIR](https://img.shields.io/badge/-DFIR-000)
 ![Incident Response](https://img.shields.io/badge/-Incident%20Response-000)
-![NIST 800-61](https://img.shields.io/badge/-NIST%20800--61-000)
-![Velociraptor](https://img.shields.io/badge/-Velociraptor-000)
 ![Volatility 3](https://img.shields.io/badge/-Volatility%203-000)
 ![Autopsy](https://img.shields.io/badge/-Autopsy-000)
 ![ProcDump](https://img.shields.io/badge/-ProcDump-000?&logo=microsoft)
@@ -61,8 +56,6 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 ![SOF-ELK](https://img.shields.io/badge/-SOF--ELK-000?&logo=elastic)
 ![Zeek](https://img.shields.io/badge/-Zeek-000)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-000?&logo=wireshark)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira)
-![PagerDuty](https://img.shields.io/badge/-PagerDuty-000?&logo=pagerduty)
 
 </details>
 
@@ -132,7 +125,7 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 
 <br>
 
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visualstudio)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visualstudio)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-000?&logo=docker)
 ![WSL2](https://img.shields.io/badge/-WSL2-000?&logo=linux)
@@ -149,13 +142,13 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 
 <br>
 
+![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-000)
+![Cyber Kill Chain](https://img.shields.io/badge/-Cyber%20Kill%20Chain-000)
 ![NIST CSF](https://img.shields.io/badge/-NIST%20CSF-000)
 ![NIST 800-61](https://img.shields.io/badge/-NIST%20800--61-000)
 ![ISO 27001](https://img.shields.io/badge/-ISO%2027001-000)
 ![Zero Trust](https://img.shields.io/badge/-Zero%20Trust-000)
 ![Defense in Depth](https://img.shields.io/badge/-Defense%20in%20Depth-000)
-![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-000)
-![Cyber Kill Chain](https://img.shields.io/badge/-Cyber%20Kill%20Chain-000)
 
 </details>
 
