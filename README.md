@@ -1,9 +1,10 @@
-# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/about_me.gif?raw=true" width="50px"></picture> About Me:
+# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/about_me.gif?raw=true" width="50px"></picture> About Me
+
 Cybersecurity professional focused on Cyber Threat Hunting, Detection Engineering, DFIR, and Cloud Incident Response.<br>
 I build security labs, document investigation workflows, develop detection logic, and create Python-based security tools to support practical threat analysis.<br>
 My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain, and hypothesis-driven hunting: understand adversary behavior, validate it with telemetry, document the evidence, and convert it into actionable detections.
 
-# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Current Focus:
+# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Current Focus
 
 - Hypothesis-driven Threat Hunting using MITRE ATT&CK and Cyber Kill Chain
 - Detection Engineering with Elastic Security and Microsoft Sentinel
@@ -22,23 +23,11 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 ![Threat Hunting](https://img.shields.io/badge/-Threat%20Hunting-000)
 ![Detection Engineering](https://img.shields.io/badge/-Detection%20Engineering-000)
 ![Hypothesis Driven Hunting](https://img.shields.io/badge/-Hypothesis--Driven%20Hunting-000)
+![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-000)
+![Cyber Kill Chain](https://img.shields.io/badge/-Cyber%20Kill%20Chain-000)
 ![Atomic Red Team](https://img.shields.io/badge/-Atomic%20Red%20Team-000)
 ![Sysmon](https://img.shields.io/badge/-Sysmon-000?&logo=microsoft)
 ![Velociraptor](https://img.shields.io/badge/-Velociraptor-000)
-
-</details>
-
-<details>
-<summary><strong>DFIR & Incident Response</strong></summary>
-
-<br>
-
-![DFIR](https://img.shields.io/badge/-DFIR-000)
-![Incident Response](https://img.shields.io/badge/-Incident%20Response-000)
-![Volatility 3](https://img.shields.io/badge/-Volatility%203-000)
-![Autopsy](https://img.shields.io/badge/-Autopsy-000)
-![ProcDump](https://img.shields.io/badge/-ProcDump-000?&logo=microsoft)
-![PagerDuty](https://img.shields.io/badge/-PagerDuty-000?&logo=pagerduty)
 
 </details>
 
@@ -78,6 +67,20 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 </details>
 
 <details>
+<summary><strong>DFIR & Incident Response</strong></summary>
+
+<br>
+
+![DFIR](https://img.shields.io/badge/-DFIR-000)
+![Incident Response](https://img.shields.io/badge/-Incident%20Response-000)
+![Volatility 3](https://img.shields.io/badge/-Volatility%203-000)
+![Autopsy](https://img.shields.io/badge/-Autopsy-000)
+![ProcDump](https://img.shields.io/badge/-ProcDump-000?&logo=microsoft)
+![PagerDuty](https://img.shields.io/badge/-PagerDuty-000?&logo=pagerduty)
+
+</details>
+
+<details>
 <summary><strong>OSINT & Threat Intelligence</strong></summary>
 
 <br>
@@ -85,10 +88,53 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 ![OSINT](https://img.shields.io/badge/-OSINT-000)
 ![Threat Intelligence](https://img.shields.io/badge/-Threat%20Intelligence-000)
 ![VirusTotal](https://img.shields.io/badge/-VirusTotal-000?&logo=virustotal)
+![OTX AlienVault](https://img.shields.io/badge/-OTX%20AlienVault-000)
 ![AbuseIPDB](https://img.shields.io/badge/-AbuseIPDB-000)
 ![Shodan](https://img.shields.io/badge/-Shodan-000)
 ![Censys](https://img.shields.io/badge/-Censys-000)
 ![IBM X-Force](https://img.shields.io/badge/-IBM%20X--Force-000?&logo=ibm)
+
+</details>
+
+<details>
+<summary><strong>Automation & Scripting</strong></summary>
+
+<br>
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=powershell)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
+
+</details>
+
+<details>
+<summary><strong>Infrastructure & Labs</strong></summary>
+
+<br>
+
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-000?&logo=docker)
+![WSL2](https://img.shields.io/badge/-WSL2-000?&logo=linux)
+![VMware](https://img.shields.io/badge/-VMware-000?&logo=vmware)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
+![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visualstudiocode)
+
+</details>
+
+<details>
+<summary><strong>Frameworks & Security Models</strong></summary>
+
+<br>
+
+![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-000)
+![Cyber Kill Chain](https://img.shields.io/badge/-Cyber%20Kill%20Chain-000)
+![NIST CSF](https://img.shields.io/badge/-NIST%20CSF-000)
+![NIST 800-61](https://img.shields.io/badge/-NIST%20800--61-000)
+![ISO 27001](https://img.shields.io/badge/-ISO%2027001-000)
+![Zero Trust](https://img.shields.io/badge/-Zero%20Trust-000)
+![Defense in Depth](https://img.shields.io/badge/-Defense%20in%20Depth-000)
 
 </details>
 
@@ -109,50 +155,7 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
 
 </details>
 
-<details>
-<summary><strong>Automation & Scripting</strong></summary>
-
-<br>
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
-![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=powershell)
-
-</details>
-
-<details>
-<summary><strong>Infrastructure & Labs</strong></summary>
-
-<br>
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visualstudio)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-000?&logo=docker)
-![WSL2](https://img.shields.io/badge/-WSL2-000?&logo=linux)
-![VMware](https://img.shields.io/badge/-VMware-000?&logo=vmware)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
-![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian)
-![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=fedora)
-
-</details>
-
-<details>
-<summary><strong>Frameworks & Security Models</strong></summary>
-
-<br>
-
-![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-000)
-![Cyber Kill Chain](https://img.shields.io/badge/-Cyber%20Kill%20Chain-000)
-![NIST CSF](https://img.shields.io/badge/-NIST%20CSF-000)
-![NIST 800-61](https://img.shields.io/badge/-NIST%20800--61-000)
-![ISO 27001](https://img.shields.io/badge/-ISO%2027001-000)
-![Zero Trust](https://img.shields.io/badge/-Zero%20Trust-000)
-![Defense in Depth](https://img.shields.io/badge/-Defense%20in%20Depth-000)
-
-</details>
-
-# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Socials:
+# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Socials
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rhodyn-ildefonso-4ba73b1b8/" target="_blank">
@@ -160,14 +163,5 @@ My work follows a structured methodology based on MITRE ATT&CK, Cyber Kill Chain
   </a>
   <a href="mailto:rhodyn.ildefonso.1311@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-Contact%20Me-000000?style=flat-square&labelColor=334155" />
-  </a>
-  <a href="mailto:rhodyn.ildefonso.1311@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-000000?style=flat-square&labelColor=334155" />
-  </a>
-  <a href="https://www.youtube.com/@beathunterzero" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Contact%20Me-000000?style=flat-square&labelColor=334155" />
-  </a>
-  <a href="https://www.instagram.com/beathunterzero/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Contact%20Me-000000?style=flat-square&labelColor=334155" />
   </a>
 </p>
