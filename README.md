@@ -1,26 +1,26 @@
-# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/about_me.gif?raw=true" width="50px"></picture> Sobre mí
+# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-Profesional de ciberseguridad con experiencia en **Cloud Incident Response**, operaciones SOC y seguridad multicloud, actualmente enfocado en **Threat Hunting**, **Detection Engineering**, **DFIR** y análisis técnico de telemetría.<br>
+Cybersecurity professional with experience in **Cloud Incident Response**, SOC operations, and multicloud security, currently focused on **Threat Hunting**, **Detection Engineering**, **DFIR**, and technical telemetry analysis.<br>
 
-Construyo laboratorios de seguridad, documento flujos de investigación, desarrollo lógica de detección y creo herramientas técnicas para apoyar el análisis práctico de amenazas.<br>
+I build security labs, document investigation workflows, develop detection logic, and create technical tools to support practical threat analysis.<br>
 
-Mi trabajo sigue una metodología estructurada basada en **MITRE ATT&CK**, **Cyber Kill Chain** y **Threat Hunting basado en hipótesis**: entender el comportamiento adversario, validarlo mediante telemetría, documentar la evidencia y convertirla en detecciones accionables.
-
----
-
-# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Enfoque actual
-
-- Threat Hunting basado en hipótesis utilizando MITRE ATT&CK y Cyber Kill Chain.
-- Detection Engineering con Elastic Security, Kibana, KQL y Microsoft Sentinel.
-- Análisis de telemetría en endpoints, sistemas Windows/Linux y fuentes cloud.
-- DFIR e investigación de endpoints con Sysmon, Velociraptor y logs de seguridad.
-- Análisis de red y revisión de paquetes con Wireshark.
-- Construcción de laboratorios reproducibles con Docker, WSL y entornos Linux.
-- Documentación técnica de investigaciones, detecciones, procedimientos y evidencia.
+My work follows a structured methodology based on **MITRE ATT&CK**, **Cyber Kill Chain**, and **Hypothesis-Driven Threat Hunting**: understanding adversary behavior, validating it through telemetry, documenting evidence, and turning it into actionable detections.
 
 ---
 
-# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Stack técnico y herramientas
+# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Current Focus
+
+- Hypothesis-Driven Threat Hunting using MITRE ATT&CK and Cyber Kill Chain.
+- Detection Engineering with Elastic Security, Kibana, KQL, and Microsoft Sentinel.
+- Telemetry analysis across endpoints, Windows/Linux systems, and cloud sources.
+- DFIR and endpoint investigation with Sysmon, Velociraptor, and security logs.
+- Network analysis and packet review with Wireshark.
+- Building reproducible labs with Docker, WSL, and Linux environments.
+- Technical documentation of investigations, detections, procedures, and evidence.
+
+---
+
+# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Technical Stack & Tools
 
 <details>
 <summary><strong>Threat Hunting & Detection Engineering</strong></summary>
@@ -117,7 +117,7 @@ Mi trabajo sigue una metodología estructurada basada en **MITRE ATT&CK**, **Cyb
 </details>
 
 <details>
-<summary><strong>AppSec & Validación de seguridad</strong></summary>
+<summary><strong>AppSec & Security Validation</strong></summary>
 
 <br>
 
@@ -132,42 +132,42 @@ Mi trabajo sigue una metodología estructurada basada en **MITRE ATT&CK**, **Cyb
 
 ---
 
-# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Experiencia resumida
+# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Experience Summary
 
-- Más de 3 años de experiencia en ciberseguridad, operaciones SOC, Cloud Incident Response y seguridad multicloud.
-- Experiencia en investigación, triage, escalamiento, mitigación y documentación de incidentes en entornos Azure, AWS y OCI.
-- Correlación de eventos y análisis de actividad con Microsoft Sentinel, KQL, Microsoft Defender, Defender for Cloud, AWS GuardDuty, AWS Detective y AWS CloudTrail.
-- Experiencia previa en AppSec, evaluación de vulnerabilidades, Secure SDLC, OWASP Top Ten y hardening Linux.
-- Desarrollo actual de portafolio técnico enfocado en Threat Hunting, Detection Engineering, DFIR, análisis de telemetría y laboratorios reproducibles.
+- Over 3 years of experience in cybersecurity, SOC operations, Cloud Incident Response, and multicloud security.
+- Experience in investigation, triage, escalation, mitigation, and incident documentation across Azure, AWS, and OCI environments.
+- Event correlation and activity analysis with Microsoft Sentinel, KQL, Microsoft Defender, Defender for Cloud, AWS GuardDuty, AWS Detective, and AWS CloudTrail.
+- Previous experience in AppSec, vulnerability assessment, Secure SDLC, OWASP Top Ten, and Linux hardening.
+- Current technical portfolio development focused on Threat Hunting, Detection Engineering, DFIR, telemetry analysis, and reproducible labs.
 
 ---
 
-# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Formación y certificaciones
+# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Education & Certifications
 
 - **Microsoft SC-200: Security Operations Analyst**
 - **Microsoft SC-900: Security, Compliance, and Identity Fundamentals**
-- **Especialización en Cyber Threat Hunting**
-- **Especialización en Digital Forensics & Incident Response**
-- **Especialización en Cyber Threat Intelligence**
-- Próximas certificaciones planificadas: **eCTHP** y **eCIR**
+- **Cyber Threat Hunting Specialization**
+- **Digital Forensics & Incident Response Specialization**
+- **Cyber Threat Intelligence Specialization**
+- Planned next certifications: **eCTHP** and **eCIR**
 
 ---
 
-# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Enfoque profesional
+# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Professional Focus
 
-Mi objetivo actual es consolidar experiencia previa en **Cloud Incident Response**, operaciones SOC y seguridad multicloud hacia un perfil técnico orientado a **Threat Hunting**, **Detection Engineering**, **DFIR** y análisis de telemetría.
+My current goal is to consolidate previous experience in **Cloud Incident Response**, SOC operations, and multicloud security into a technical profile oriented toward **Threat Hunting**, **Detection Engineering**, **DFIR**, and telemetry analysis.
 
-El propósito de este GitHub es documentar investigaciones, laboratorios, consultas, procedimientos y herramientas que puedan servir como evidencia técnica de aprendizaje, práctica profesional y desarrollo continuo en ciberseguridad defensiva.
+The purpose of this GitHub profile is to document investigations, labs, queries, procedures, and tools that can serve as technical evidence of learning, professional practice, and continuous development in defensive cybersecurity.
 
 ---
 
-# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Contacto
+# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rhodyn-ildefonso-4ba73b1b8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Contactar-000000?style=flat-square&labelColor=334155" />
+    <img src="https://img.shields.io/badge/LinkedIn-Contact-000000?style=flat-square&labelColor=334155" />
   </a>
   <a href="mailto:rhodyn.ildefonso.1311@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-Contactar-000000?style=flat-square&labelColor=334155" />
+    <img src="https://img.shields.io/badge/Outlook-Contact-000000?style=flat-square&labelColor=334155" />
   </a>
 </p>
