@@ -132,35 +132,6 @@ My work follows a structured methodology based on **MITRE ATT&CK**, **Cyber Kill
 
 ---
 
-# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Experience Summary
-
-- Over 3 years of experience in cybersecurity, SOC operations, Cloud Incident Response, and multicloud security.
-- Experience in investigation, triage, escalation, mitigation, and incident documentation across Azure, AWS, and OCI environments.
-- Event correlation and activity analysis with Microsoft Sentinel, KQL, Microsoft Defender, Defender for Cloud, AWS GuardDuty, AWS Detective, and AWS CloudTrail.
-- Previous experience in AppSec, vulnerability assessment, Secure SDLC, OWASP Top Ten, and Linux hardening.
-- Current technical portfolio development focused on Threat Hunting, Detection Engineering, DFIR, telemetry analysis, and reproducible labs.
-
----
-
-# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Education & Certifications
-
-- **Microsoft SC-200: Security Operations Analyst**
-- **Microsoft SC-900: Security, Compliance, and Identity Fundamentals**
-- **Cyber Threat Hunting Specialization**
-- **Digital Forensics & Incident Response Specialization**
-- **Cyber Threat Intelligence Specialization**
-- Planned next certifications: **eCTHP** and **eCIR**
-
----
-
-# <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Professional Focus
-
-My current goal is to consolidate previous experience in **Cloud Incident Response**, SOC operations, and multicloud security into a technical profile oriented toward **Threat Hunting**, **Detection Engineering**, **DFIR**, and telemetry analysis.
-
-The purpose of this GitHub profile is to document investigations, labs, queries, procedures, and tools that can serve as technical evidence of learning, professional practice, and continuous development in defensive cybersecurity.
-
----
-
 # <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Contact
 
 <p align="left">
