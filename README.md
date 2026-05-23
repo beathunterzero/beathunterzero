@@ -129,7 +129,7 @@ My work follows a structured methodology based on **MITRE ATT&CK**, **Cyber Kill
 ![Secure SDLC](https://img.shields.io/badge/-Secure%20SDLC-000)
 
 </details>
-
+<!--
 ---
 
 # <picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture><picture><img src="https://github.com/beathunterzero/beathunterzero/blob/main/images/craneo.gif?raw=true" width="30px"></picture> Contact
@@ -142,3 +142,4 @@ My work follows a structured methodology based on **MITRE ATT&CK**, **Cyber Kill
     <img src="https://img.shields.io/badge/Outlook-Contact-000000?style=flat-square&labelColor=334155" />
   </a>
 </p>
+-->
